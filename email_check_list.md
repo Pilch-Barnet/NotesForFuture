@@ -1,11 +1,11 @@
 # Enews checklist
-+ Dates and vol#(wtbb and mid) are correct (September 2017 | if necessary)
++ Dates and vol# (wtbb and mid) are correct (September 2017 | if necessary)
 ## Links
-+ Complete urls (http(s)://www.example.com)
-+ Open in ne tab (target="_blank")
++ Complete urls (```HTML http(s)://www.example.com ```)
++ Open in ne tab (```HTML target="_blank" ```)
 + Got to correct address
 
-+ View in browser(*|ARCHIVE|*) / email to friend correct format ( *|FORWARD|*)
++ View in browser(```HTML *|ARCHIVE|* ```) / email to friend correct format (```HTML *|FORWARD|* ```)
 
 + Headlines format and copy are correct and consistent with the enewsletters
 
@@ -21,8 +21,8 @@
 # Article checklist
 
 ## Links
-+ Complete urls (http(s)://www.example.com)
-+ Open in ne tab (target="_blank")
++ Complete urls (```HTML http(s)://www.example.com ```)
++ Open in ne tab (```HTML target="_blank" ```)
 + Got to correct address 
 
 + Headlines format and copy are correct and consistent with the articles
