@@ -1,6 +1,6 @@
 # Report for cleaning Enews accounts
 
-The "steps" are just to break it up for a better train of thought.
+The "steps" are just to break it up for a better train of thought.  
 **Bold** is an action
 
 ## Step One
