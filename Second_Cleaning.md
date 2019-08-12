@@ -1,14 +1,23 @@
 # Report for cleaning Enews accounts
 
+The "steps" are just to break it up for a better train of thought.
+**Bold** is an action
+
+## Step One
+
 + **Click** on the newsletter
 + **Click** on Links
 + **Click** on Unique Clicks
 
-+ ### Export CSV
-+ #### Yes Clicks
-+ #### No Clicks
+## Step Two
+
++ **Export CSV**
++ **Yes Clicks**
++ **No Clicks**
 + **Save** both
 + **Copy Emails from the CSV**
+
+## Step Three
 
 + **Go** to List
 + **Click** the list that you are managing
@@ -18,6 +27,8 @@
 + **Name the Tags**
 + **Paste one of the CSV's**
 + **Save**
+
+## Step Four
 
 + **Go back to List**
 + **Click** the list you are working
