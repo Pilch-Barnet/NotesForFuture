@@ -2,9 +2,9 @@
 + **Click** on the newsletter
 + **Click** on Links
 + **Click** on Unique Clicks
-### Export CSV
-#### Yes Clicks
-#### No Clicks
++ ### Export CSV
++ #### Yes Clicks
++ #### No Clicks
 + **Save** both
 + **Copy Emails from the CSV**
 + **Go** to List
