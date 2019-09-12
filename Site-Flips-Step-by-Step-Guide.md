@@ -23,7 +23,6 @@ The "steps" are just to break it up for a better train of thought.
 + **FTP into** Header file and update the id number
 + **FTP into** plugin folder >> pbPopup folder >> index change image for the season
 
-
 ## Middelton
 
 + **Edit** Homepage and Select the season on the radio button.
@@ -100,8 +99,7 @@ The "steps" are just to break it up for a better train of thought.
   + **IF NOT** goto travel wisconsins website **click** on the report needed on top menu >> then **click** on the "*tools*" on the left menu >> **click** on the "*embed the report on your site*" >> **select** "*reports in specific counties*" >> **select** county >> **next** >> **fill in form** >> **copy** iframe code >> go back to WP site and paste it on the season report page in the **text** tab
 + **FTP into** plugin folder >> pbPopup folder >> index change image for the season
 
-
-## Vilas 
+## Vilas
 
 + **Edit** Homepage
 + **Change** copy
