@@ -40,9 +40,10 @@ The "steps" are just to break it up for a better train of thought.
 
 + Make sure the event header is one of the upcoming season
   + *IF NOT or you just want to change it* - **FTP into** Header file and update
-  + **Change** spotlights
-    + image(600x265) should be the of the up coming season, from the newest folder possible
-    + copy
++ **Change** spotlights
+  + image(600x265) should be the of the up coming season, from the newest folder possible
+  + copy
++ **FTP into** plugin folder >> pbPopup folder >> index change image for the season
 
 ## MRPC
 
