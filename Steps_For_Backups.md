@@ -14,14 +14,9 @@
 + porcupineup.com
 + ruskarts.org
 + ruskcountywi.com
-+ sayner-starlake.org
-+ thenorthwoodsofwisconsin.com
-+ tourmiddleton.com
-+ velvetwaxingstudio.com
 + vilaswi.com
 + visitmiddleton.com
 + visitwestbend.com
-+ wigrr.com
 + wildriverswi.com
 + witravelbestbets.com
 
