@@ -6,18 +6,16 @@
 + explorerhinelander.com
 + gototomahawk.com
 + lukehousemadison.org
-+ mrcusa.jp
 + mrpcmembers.com
 + oneidacountywi.com
-+ paddleflambeau.com
 + pilchbarnet.com
 + porcupineup.com
-+ ruskarts.org
 + ruskcountywi.com
 + vilaswi.com
++ visitmarshfield.com
 + visitmiddleton.com
 + visitwestbend.com
-+ wildriverswi.com
++ westbendcashe.com
 + witravelbestbets.com
 
 ## Steps for backing up
