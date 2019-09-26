@@ -14,9 +14,9 @@ This is really quick and simple but I just wanted a list for the Event Calenders
 
 + Middleton
 + Boulder Junction
-+ Vilas
++ Vilas County
 + Tomahawk
-+ Rusk
++ Rusk County
 
 ## Places that are not on ManageWP
 
