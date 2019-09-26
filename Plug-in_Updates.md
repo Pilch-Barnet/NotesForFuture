@@ -18,6 +18,6 @@ This is really quick and simple but I just wanted a list for the Event Calenders
 + Tomahawk
 + Rusk County
 
-## Places that are not on ManageWP
+## One place not on ManageWP yet
 
 + Porcupine
