@@ -36,4 +36,4 @@ Make sure you are using the PB account for chrome
 + **Login** to the clients mailchimp
 + Then go to campaigns
 + Now go **back** to the clients report, in Google drive, **scroll up** to the "Enewsletters" section
-+ Fill in the Date Open rate percent and click rate percent for the whole quarter
++ Fill in the Date, Open rate percent, and click rate percent for the whole quarter
