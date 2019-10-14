@@ -3,15 +3,15 @@
 + **Login** to the Pilch Barnet Chrome Browser
 + **Go to** [pilchbarnet.com/reports.php](http://www.pilchbarnet.com/reports.php)
 + **Login** to Google
-  + If an error occurs were the app is not allowed, **make sure** it is ```http://wwww.pilchbarnet.com/reports.php```.
+  + If an error occurs were the app is not allowed, **make sure** it is ```http://www.pilchbarnet.com/reports.php```
 + Once at the "Logged in" screen **delete all** the text *after* pilchbarnet.com/reports.php
 
 ## After You Are Logged
 
 Now you should be in the proper reports interface.
 
-+ **Select** ONE client, nevermind where it says here about "one or more".
-  + *Type* is **Full Report** and range in whatever **Year** and **Quarter** you are making the report for.
++ **Select** ONE client, nevermind where it says here about "one or more"
+  + *Type* is **Full Report** and range in whatever **Year** and **Quarter** you are making the report for
 + **Click** Generate at bottom
 + **Click** Download at the *"new"* bottom
 + **Save** file
@@ -23,12 +23,12 @@ Make sure you are using the PB account for chrome
 
 + **Go to** Google Drive
 + **Go to** the clients folder
-+ **Upload** the clients Excel file, that you download from the /reports.php
++ **Upload** the clients Excel file, that you downloaded from the /reports.php
 + Look over the file to make sure that there is nothing to far off
-+ Once uploaded **Open** the file with the *Google Sheets* option.
++ Once uploaded **Open** the file with the *Google Sheets* option
 + **Copy** all the information
-+ Open the report
-+ **Paste the form** with the *link option* where the report says "[insert link]".
++ Open the clients report
++ **Paste the form** with the *link option* where the report says "[insert link]"
 + **Check off** the task on the report (on the column to the right)
 
 ## Step Three (Mailchimp Part)
