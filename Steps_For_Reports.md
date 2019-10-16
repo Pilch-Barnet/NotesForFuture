@@ -2,6 +2,7 @@
 
 + **Login** to the Pilch Barnet Chrome Browser
 + **Go to** [pilchbarnet.com/reports.php](http://www.pilchbarnet.com/reports.php)
++ **Click** Connect me
 + **Login** to Google
   + If an error occurs were the app is not allowed, **make sure** it is ```http://www.pilchbarnet.com/reports.php```
 + Once at the "Logged in" screen **delete all** the text *after* pilchbarnet.com/reports.php
