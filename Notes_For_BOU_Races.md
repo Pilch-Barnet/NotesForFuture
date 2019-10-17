@@ -18,6 +18,6 @@
 
 ## Random notes
 
-NOW list is for ALL of the racers on the area
-BouTri is the "normal" email
-BouJct is the "Exclusive" email
+NOW list is for ALL of the racers on the area  
+BouTri is the "normal" email  
+BouJct is the "Exclusive" email  
