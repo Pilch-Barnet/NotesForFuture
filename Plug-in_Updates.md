@@ -3,7 +3,7 @@
 This is really quick and simple but I just wanted a list for the Event Calenders that have to be check after the updates.
 
 ## ManageWP
-
+[ManageWP](https://orion.managewp.com/login)
 + In the Updates frame while on the plugins tab **check** Select all then **hit** the Update button
   ++ Be careful about updating the rest of the tabs on this frame
 + In the Optimization frame while on the MB Overhead tab **check** Select all then **hit** the Update button
@@ -12,12 +12,12 @@ This is really quick and simple but I just wanted a list for the Event Calenders
 
 ## List of the sites that use the event calender
 
-+ Middleton
-+ Boulder Junction
-+ Vilas County
-+ Tomahawk
-+ Rusk County
++ [Middleton](https://visitmiddleton.com/events-calendar/month/)
++ [Boulder Junction](https://boulderjct.org/all-events/)
++ [Vilas County](https://www.vilaswi.com/events/)
++ [Tomahawk](https://gototomahawk.com/events/)
++ [Rusk County](https://ruskcountywi.com/events/)
 
 ## The one place not on ManageWP
 
-+ Porcupine
++ [Porcupine](https://www.porcupineup.com/)
