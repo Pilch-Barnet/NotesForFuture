@@ -20,7 +20,7 @@ Just some quick notes I have down for photos
 
 ## MailChimp Recommendations
 
-Notes I have down but we don't really follow, but nice to know
+Notes I have down that we don't really follow, but it is nice to know
 
 + 560px Total width
 + 500px Largest image
