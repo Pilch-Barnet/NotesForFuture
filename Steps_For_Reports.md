@@ -35,8 +35,8 @@ Make sure you are using the clients account for chrome
 
 <del> ## Step Three (Mailchimp Part)
 
-+ **Login** to the clients mailchimp
-+ Then go to campaigns
-+ Now go **back** to the clients report, in Google drive, **scroll up** to the "Enewsletters" section
-+ Fill in the Date, Open rate percent, and click rate percent for the whole quarter
+<del> + **Login** to the clients mailchimp
+<del> + Then go to campaigns
+<del>+ Now go **back** to the clients report, in Google drive, **scroll up** to the "Enewsletters" section
+<del> + Fill in the Date, Open rate percent, and click rate percent for the whole quarter
 </del>
