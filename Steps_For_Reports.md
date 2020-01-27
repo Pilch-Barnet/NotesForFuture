@@ -23,8 +23,8 @@ Now you should be in the proper reports interface.
 
 Make sure you are using the PB account for chrome
 
-+ **Go to** Google Drive
-+ **Go to** the clients folder
++ **Go to** clients Google Drive
++ **Go to** the Reports / Year folder
 + **Upload** the clients Excel file, that you downloaded from the /reports.php
 + Look over the file to make sure that there is nothing to far off
 + Once uploaded **Open** the file with the *Google Sheets* option
