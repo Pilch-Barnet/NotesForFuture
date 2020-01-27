@@ -5,6 +5,7 @@
 + **Click** Connect me
 + **Login** to Google
   + If an error occurs were the app is not allowed, **make sure** it is ```http://www.pilchbarnet.com/reports.php```
+  + If "code errors" for the site come up try next step
 + Once at the "Logged in" screen **delete all** the text *after* pilchbarnet.com/reports.php
 
 ## After You Are Logged
