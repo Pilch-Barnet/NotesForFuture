@@ -21,7 +21,7 @@ Now you should be in the proper reports interface.
 
 ## Step Two (Google Drive Part)
 
-Make sure you are using the PB account for chrome
+Make sure you are using the clients account for chrome
 
 + **Go to** clients Google Drive
 + **Go to** the Reports / Year folder
