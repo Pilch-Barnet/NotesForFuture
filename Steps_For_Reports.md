@@ -33,9 +33,10 @@ Make sure you are using the clients account for chrome
 + **Paste the form** with the *link option* where the report says "[insert link]"
 + **Check off** the task on the report (on the column to the right)
 
-~~ ## Step Three (Mailchimp Part) ~~
+<del> ## Step Three (Mailchimp Part)
 
-~~ + **Login** to the clients mailchimp~~
-~~ + Then go to campaigns~~
-~~ + Now go **back** to the clients report, in Google drive, **scroll up** to the "Enewsletters" section~~
-~~ + Fill in the Date, Open rate percent, and click rate percent for the whole quarter ~~
++ **Login** to the clients mailchimp
++ Then go to campaigns
++ Now go **back** to the clients report, in Google drive, **scroll up** to the "Enewsletters" section
++ Fill in the Date, Open rate percent, and click rate percent for the whole quarter
+</del>
