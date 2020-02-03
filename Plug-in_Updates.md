@@ -18,7 +18,7 @@ This is really quick and simple but I just wanted a list for the Event Calenders
 + [Tomahawk](https://gototomahawk.com/events/)
 + [Rusk County](https://ruskcountywi.com/events/)
 
-## The one place not on ManageWP
+## Places not on ManageWP
 
 + [Porcupine](https://www.porcupineup.com/)
-+ [Boulder Junction](https://boulderjct.org/)
++ [Boulder Junction](https://boulderjct.org/) New Site
