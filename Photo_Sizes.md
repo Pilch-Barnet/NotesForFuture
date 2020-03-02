@@ -18,6 +18,10 @@ Just some quick notes I have down for photos
 
 + 1250px x 800px
 
+### Mobile
+
++ 960px x 1100px
+
 ## MailChimp Recommendations
 
 Notes I have down that we don't really follow, but it is nice to know
