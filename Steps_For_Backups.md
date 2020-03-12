@@ -18,6 +18,8 @@
 + westbendcashe.com
 + witravelbestbets.com
 
+# EVERY FEW MONTHS EMPTY THE "HIDDEN" TRASH
+
 ## Steps for backing up
 
 + **Log in** to cPanel
