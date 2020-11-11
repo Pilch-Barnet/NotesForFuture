@@ -8,20 +8,7 @@ The "steps" are just to break it up for a better train of thought.
 + **Edit** Homepage and Select the season on the radio button.
 + **Make sure the Fall/Winter widget is working**
   + **IF NOT** goto travel wisconsins website **click** on the report needed on top menu >> then **click** on the "*tools*" on the left menu >> **click** on the "*embed the report on your site*" >> **select** "*reports in specific counties*" >> **select** county >> **next** >> **fill in form** >> **copy** iframe code >> go back to WP site and paste it on the season report page in the **text** tab
-+ **Goto** The Solilquy plugin
-  + **Config settings**
-    + 960 x 400
-    + Fade
-    + 7000
-    + 0
-    + 0
-    + polite
-  + **misc**
-    + Title and Slug
-+ Image should be the of the up coming season, from the newest folder possible, and 1200 x 500
-+ **Copy** id number and **publish**
-+ **FTP into** Header file and update the id number
-+ **FTP into** plugin folder >> pbPopup folder >> index change image for the season
++ Image should be the of the up coming season and 1920 x 816
 
 ## Middelton
 
