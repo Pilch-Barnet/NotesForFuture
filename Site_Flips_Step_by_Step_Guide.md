@@ -6,7 +6,8 @@ The "steps" are just to break it up for a better train of thought.
 ## Boulder
 
 + **Edit** Homepage and Select the season on the radio button.
-+ **Goto** Outdoor fun and chage the header and chage the featured article for the season
++ **Goto** Outdoor fun and chage the header
+  + **Change** the featured article for the season
 + **Make sure the Fall/Winter widget is working**
   + **IF NOT** goto travel wisconsins website **click** on the report needed on top menu >> then **click** on the "*tools*" on the left menu >> **click** on the "*embed the report on your site*" >> **select** "*reports in specific counties*" >> **select** county >> **next** >> **fill in form** >> **copy** iframe code >> go back to WP site and paste it on the season report page in the **text** tab
 + Image should be the of the up coming season and 1920 x 816
