@@ -33,6 +33,10 @@ Make sure you are using the clients account for chrome
 + **Paste the form** with the *link option* where the report says "[insert link]"
 + **Check off** the task on the report (on the column to the right)
 
+## NOTES
+ + On the Rhinelander report
+ ++ if the has a "/list/search?c=49&q=&st=3" find the readable listing with ```http://explorerhinelanderwi.chambermaster.com/``` list/search**** 
+
 <del> ## Step Three (Mailchimp Part)
 
 <del> + **Login** to the clients mailchimp <br />
