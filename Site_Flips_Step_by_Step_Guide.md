@@ -84,7 +84,7 @@ The "steps" are just to break it up for a better train of thought.
 + **Edit** Homepage and Select the season on the radio button.
 + **Change** copy
 + **Goto** slider on the left side menu and **publish** or add needed photo and set the unwanted pics to **draft**
-To change the articles on the home page **to go** them current articles and **uncheck** the homepage option in the checkbox area and **check** it in the "new" article
++ To change the articles on the home page **to go** them current articles and **uncheck** the homepage option in the checkbox area and **check** it in the "new" article
 + **Make sure the Fall/Winter widget is working**
   + **IF NOT** goto travel wisconsins website **click** on the report needed on top menu >> then **click** on the "*tools*" on the left menu >> **click** on the "*embed the report on your site*" >> **select** "*reports in specific counties*" >> **select** county >> **next** >> **fill in form** >> **copy** iframe code >> go back to WP site and paste it on the season report page in the **text** tab
 + **FTP into** plugin folder >> pbPopup folder >> index change image for the season
