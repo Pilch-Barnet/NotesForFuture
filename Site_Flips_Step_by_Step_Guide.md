@@ -5,7 +5,7 @@ The "steps" are just to break it up for a better train of thought.
 
 ## Boulder
 
-+ **Edit** Homepage and Select the season on the radio button.
++ **Edit** Homepage change the all the copy sections and photo snd Select the season on the radio button on the right hand side
 + **Goto** Outdoor fun and chage the header
   + **Change** the featured article for the season
 + **Make sure the Fall/Winter widget is working**
