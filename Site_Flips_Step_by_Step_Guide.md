@@ -54,10 +54,9 @@ The "steps" are just to break it up for a better train of thought.
 ## Oneida
 
 + **Edit** Homepage and change the copy.
-+ **Goto** *Optiions* on the leftside menu
++ **Goto** *Options* on the leftside menu
   + **Change** pop-up
   + **Change** season option
-+ **FTP into** plugin folder >> pbPopup folder >> index change image for the season
 
 ## Tomahawk
 
