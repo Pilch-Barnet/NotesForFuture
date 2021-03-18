@@ -72,12 +72,14 @@ The "steps" are just to break it up for a better train of thought.
 
 ## Rusk
 
-+ **Edit** Homepage and Select the season on the check off.
++ **Edit** Homepage
 + **Change** copys
 + **Change** featured images
 + **Make sure the Fall/Winter widget is working**
   + **IF NOT** goto travel wisconsins website **click** on the report needed on top menu >> then **click** on the "*tools*" on the left menu >> **click** on the "*embed the report on your site*" >> **select** "*reports in specific counties*" >> **select** county >> **next** >> **fill in form** >> **copy** iframe code >> go back to WP site and paste it on the season report page in the **text** tab
 + **FTP into** plugin folder >> pbPopup folder >> index change image for the season
++ change season style.css starting at line 2402
++ change season water.js starting at line 69
 
 ## West Bend
 
