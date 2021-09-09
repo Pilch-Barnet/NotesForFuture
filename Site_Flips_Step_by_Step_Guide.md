@@ -57,6 +57,7 @@ The "steps" are just to break it up for a better train of thought.
 + **Goto** *Options* on the leftside menu
   + **Change** pop-up
   + **Change** season option
++ **For what header photos to up look in the Branding folder on the ONE drive**
 
 ## Tomahawk
 
