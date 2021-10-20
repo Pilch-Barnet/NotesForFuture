@@ -16,8 +16,4 @@ This is really quick and simple but I just wanted a list for the Event Calenders
 + [Boulder Junction](https://boulderjct.org/events/)
 + [Vilas County](https://www.vilaswi.com/events/)
 + [Tomahawk](https://gototomahawk.com/events/)
-+ [Rusk County](https://ruskcountywi.com/events/)
-
-## Places not on ManageWP
-
-+ [Porcupine](https://www.porcupineup.com/)
++ [Rusk County](https://ruskcountywi.com/events/month/)
