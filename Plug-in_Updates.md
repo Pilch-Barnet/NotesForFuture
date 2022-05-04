@@ -1,4 +1,7 @@
 # Steps for weekly plugin updates
+There are two different tasks for this really one that the task is just "update plugins" the other is each site has the update task. ManageWP has the "update plugin" task.
+
+When it is the updates task for each site I go in update each plugin and check the wordfence plugin for anything that looks off.
 
 This is really quick and simple but I just wanted a list for the Event Calenders that have to be check after the updates.
 
