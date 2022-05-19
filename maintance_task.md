@@ -1,9 +1,9 @@
 # Mailchimp monthly maintenance task
-+ check that each site forms are sending to mailchimp. I have found that https://emailfake.com/channel1/ works well for this.
++ check that each site forms are sending to mailchimp. I have found that [https://emailfake.com/channel1/](https://emailfake.com/channel1/) works well for this.
 + after that go to the clients mailchimp and archive the people that unsubbed 
 + audience tab
 + make sure you are on the main list
-+ click the first number (Your audience has ####1st333 contacts. #### of these are subscribers.)
++ click the first number (Your audience has ####_1st_### contacts. #### of these are subscribers.)
 + click "new segment"
 + unclick subscribed for marketing status 
 + preview
