@@ -30,3 +30,10 @@ Notes I have down that we don't really follow, but it is nice to know
 + 500px Largest image
 + 264 2 column width images
 + 164 3 column width images
+
+## Need specs for YouTube Thumbnail
+Resolution:  1280x720  
+Min Width: 640 pixels  
+Aspect Ratio: 16:9  
+Max file size: 2MB  
+File format: JPG, GIF, BMP, or PNG  
